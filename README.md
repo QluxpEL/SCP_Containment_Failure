@@ -21,7 +21,7 @@ SCP: Containment Failure was planned to be a SCP: Containment Breach remake on R
 
 https://github.com/user-attachments/assets/bd31d3bb-942f-4f1a-8287-14ee5bed9bde
 
-> The video showcases a procedurally generated map layout with fully random room generation. The system automatically checks for invalid placements and includes required sections for rooms that must appear in every layout.
+> The video showcases a procedurally generated map layout with fully random room generation. The system automatically checks for invalid placements and includes required sections for rooms that must appear in every layout. The generation ahs been slowed down for the video, but in normal gameplay it happens in nearly instantly.
 
 <p align="left">
   <a href="https://pastebin.com/0H51pu9U" target="_blank">
