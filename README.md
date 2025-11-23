@@ -1,9 +1,7 @@
 <h1 align="middle">SCP: Containment Failure</h1>
 
 <p align="middle">
-  <a href="https://www.roblox.com/games/16752950836/Mailbox-Misery">
-    <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Game_Not_Released-red?style=for-the-badge&logoColor=white">
 </p>
 <br>
 <br>
