@@ -55,6 +55,8 @@ The system starts by creating a horizontal row of rooms across the level. Then i
 This creates natural branching paths while keeping everything connected. I also added some extra features: if one side generates short, the other side generates longer to keep things balanced. Room counts use weighted random chances so there's variety but nothing too extreme. The system also uses raycasting to check that doors line up properly between rooms before placing them.
 This went from being something I had no idea how to do, to one of the coolest systems I've built. It taught me a lot about procedural generation and working with grids and coordinates.
 
+This was the first big system I used Roblox Object Orientd Programing in.
+
 Additionally, I created a few NPCs for the game that needed to open doors, and I wanted Roblox’s PathfindingService to be able to ignore the doors and path through them. This experience helped me learn how pathfinding links and modifiers work.
 </p>
 
